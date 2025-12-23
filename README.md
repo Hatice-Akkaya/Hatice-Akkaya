@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/TZf4D8yq7s3EQ/giphy.gif" width="100%" alt="Female Hacker Aesthetic Animation" />
+  <img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Coding Setup with Code Screens Animation" />
 </div>
 
 <h1 align="center">Merhaba 👋, ben Hatice AKKAYA</h1>
