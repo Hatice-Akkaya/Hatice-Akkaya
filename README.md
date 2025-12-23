@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+  <img src="https://media1.giphy.com/media/TZf4D8yq7s3EQ/giphy.gif" width="100%" alt="Female Hacker Aesthetic Animation" />
 </div>
 
 <h1 align="center">Merhaba 👋, ben Hatice AKKAYA</h1>
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/Hatice Akkaya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/akkyahaticee" target="_blank">
+  <a href="https://www.instagram.com/akkyahaticee_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
